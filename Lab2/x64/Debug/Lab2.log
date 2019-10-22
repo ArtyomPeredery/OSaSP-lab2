@@ -1,0 +1,50 @@
+﻿  Lab2.cpp
+C:\Users\Artem\Desktop\ОСиСП\Lab2\Lab2\Lab2.cpp(322,65): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Artem\Desktop\ОСиСП\Lab2\Lab2\Lab2.cpp(327,48): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Artem\Desktop\ОСиСП\Lab2\Lab2\Lab2.cpp(337,32): warning C4267:  инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Artem\Desktop\ОСиСП\Lab2\Lab2\Lab2.cpp(348,95): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Artem\Desktop\ОСиСП\Lab2\Lab2\Lab2.cpp(352,30): warning C4267:  =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Artem\Desktop\ОСиСП\Lab2\Lab2\Lab2.cpp(357,106): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Artem\Desktop\ОСиСП\Lab2\Lab2\Lab2.cpp(373,72): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Artem\Desktop\ОСиСП\Lab2\Lab2\Lab2.cpp(378,73): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Artem\Desktop\ОСиСП\Lab2\Lab2\Lab2.cpp(383,73): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:  аргумент: преобразование "wchar_t" в "const _Elem", возможна потеря данных
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         ]
+C:\Users\Artem\Desktop\ОСиСП\Lab2\Lab2\Lab2.cpp(250): message :  выполняется компиляция ссылки на экземпляр шаблон функции "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)"
+C:\Users\Artem\Desktop\ОСиСП\Lab2\Lab2\Lab2.cpp(250): message :         with
+C:\Users\Artem\Desktop\ОСиСП\Lab2\Lab2\Lab2.cpp(250): message :         [
+C:\Users\Artem\Desktop\ОСиСП\Lab2\Lab2\Lab2.cpp(250): message :             _Elem=wchar_t,
+C:\Users\Artem\Desktop\ОСиСП\Lab2\Lab2\Lab2.cpp(250): message :             _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+C:\Users\Artem\Desktop\ОСиСП\Lab2\Lab2\Lab2.cpp(250): message :             _Alloc=std::allocator<char>
+C:\Users\Artem\Desktop\ОСиСП\Lab2\Lab2\Lab2.cpp(250): message :         ]
+C:\Users\Artem\Desktop\ОСиСП\Lab2\Lab2\Lab2.cpp(250): message :  выполняется компиляция ссылки на экземпляр шаблон функции "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)"
+C:\Users\Artem\Desktop\ОСиСП\Lab2\Lab2\Lab2.cpp(250): message :         with
+C:\Users\Artem\Desktop\ОСиСП\Lab2\Lab2\Lab2.cpp(250): message :         [
+C:\Users\Artem\Desktop\ОСиСП\Lab2\Lab2\Lab2.cpp(250): message :             _Elem=wchar_t,
+C:\Users\Artem\Desktop\ОСиСП\Lab2\Lab2\Lab2.cpp(250): message :             _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+C:\Users\Artem\Desktop\ОСиСП\Lab2\Lab2\Lab2.cpp(250): message :             _Alloc=std::allocator<char>
+C:\Users\Artem\Desktop\ОСиСП\Lab2\Lab2\Lab2.cpp(250): message :         ]
+  Lab2.vcxproj -> C:\Users\Artem\Desktop\ОСиСП\Lab2\x64\Debug\Lab2.exe
